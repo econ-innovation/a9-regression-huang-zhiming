@@ -1,6 +1,4 @@
-#Rosokha, Yaroslav, and Younge, Kenneth, (2020) "Motivating Innovation: 
-The Effect of Loss Aversion on the Willingness to Persist." Review of 
-Economics and Statistics 102:3, 569–582.
+#Rosokha, Yaroslav, and Younge, Kenneth, (2020) "Motivating Innovation: The Effect of Loss Aversion on the Willingness to Persist." Review of Economics and Statistics 102:3, 569–582.
 
 #复现其中图表部分内容
 
